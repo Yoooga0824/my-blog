@@ -7,6 +7,7 @@ tags:
     - 技术
 categories:
     - Let's go
+feature: true
 ---
 欢迎来到[Hexo](https://hexo.io/)!  这是我的第一篇博客. 更多信息请查阅[Doc](https://hexo.io/docs/). <br>
 接下来是关于Hexo的使用基础文档，如果在使用Hexo时遇到任何问题，你可以在[Troubleshooting](https://hexo.io/docs/troubleshooting.html)中找到答案，或者在[GitHub](https://github.com/hexojs/hexo/issues)向发布者提问.

@@ -15,6 +15,11 @@ data:
     description: Saurlax's blog
     link: https://saurlax.com/
     label: 技术大佬
+  - nick: Sy_OvO
+    avatar: /images/image9.png
+    description: Sy_OvO's blog
+    link: https://www.syight.site/
+    label: 好友
 ---
 
 ## 友情链接申请
