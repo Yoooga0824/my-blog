@@ -12,12 +12,16 @@ site:
   subtitle: Yoooga's Blog
   author: Yoooga
   nick: Yoooga
-  description: "记得花瓣飘来的地方"
+  description: "Linger in the memory of where the petals sailed on the wind<br>记得花瓣飘来的地方"
+  socials:
+    github: https://github.com/Yoooga0824
+    csdn: https://blog.csdn.net/2302_80911280?spm=1000.2115.3001.5343
   link: '/'
   language: zh-CN
   multi_language: true
   logo: "/images/touxiang.jpg"
   avatar: "/images/touxiang.jpg"
+
   beian:
     number: ''
     link: ''
@@ -37,15 +41,15 @@ site:
 #! Authors Configs
 #！ @docs https://aurora.tridiamond.tech/guide/authors.html
 #! ---------------------------------------------------------------
-authors:
-  ##! example
-  # TriDiamond:
-  #   name: TriDiamond
-  #   avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
-  #   link: https://github.com/TriDiamond
-  #   description: 'Think like an artist, code like an artisan.'
-  #   socials:
-  #     github: https://tridiamond.tech
+# authors:
+#   ##! example
+#   # TriDiamond:
+#   #   name: TriDiamond
+#   #   avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
+#   #   link: https://github.com/TriDiamond
+#   #   description: 'Think like an artist, code like an artisan.'
+#   #   socials:
+#   #     github: https://tridiamond.tech
 
 #! ---------------------------------------------------------------
 #! Menu Configs
