@@ -1,0 +1,3 @@
+[submodule "themes/hexo-theme-aurora"]
+    path = themes/hexo-theme-aurora
+    url = https://github.com/Yoooga0824/hexo-theme-aurora.git
