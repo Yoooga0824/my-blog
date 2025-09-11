@@ -14,7 +14,7 @@ site:
   nick: Yoooga
   description: "记得花瓣飘来的地方"
   link: '/'
-  language: cn
+  language: zh-CN
   multi_language: true
   logo: "/images/touxiang.jpg"
   avatar: "/images/touxiang.jpg"
