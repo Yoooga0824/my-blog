@@ -11,8 +11,6 @@ feature: true
 
 # 掌握 npm：现代前端开发的基石与艺术
 
-![npm-logo](https://static.npmjs.com/7a7ffabbd910fc71661a7e53a3eb3fd0.svg)
-
 ## 引言：为什么 npm 如此重要？
 
 在当今的 JavaScript 世界，尤其是前端开发领域，几乎没有一个项目能够脱离 `npm` 而独立存在。它早已不仅仅是一个“包管理器”，而是成为了整个生态的基石、协作的桥梁和效率的引擎。无论是构建一个庞大的企业级应用，还是快速搭建一个简单的个人博客，我们几乎都会从 `npm init` 或 `npm install` 开始。
