@@ -138,7 +138,7 @@ gitalk:
   admin: ['Yoooga0824'] ## ['admin_name']
   id: location.pathname
   language: en
-  distractionFreeMode: false
+  distractionFreeMode: true
   recentComment: true
   proxy: ''
 
