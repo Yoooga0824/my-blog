@@ -136,7 +136,7 @@ gitalk:
   repo: 'blog-comments' ## dev-blo-comments
   owner: 'Yoooga0824' ## owner name
   admin: ['Yoooga0824'] ## ['admin_name']
-  id: uid
+  id: location.pathname
   language: en
   distractionFreeMode: false
   recentComment: true
