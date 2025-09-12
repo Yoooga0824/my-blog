@@ -439,7 +439,7 @@ footer_links:
       - title: # link title
         url: # URL link
       - title: Friends # link of friends mode / 友链模式
-        mode: 'links'
+        url: '/links'
 
 #! ---------------------------------------------------------------
 #! Highlighter Shiki
