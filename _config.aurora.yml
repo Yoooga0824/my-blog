@@ -13,9 +13,6 @@ site:
   author: Yoooga
   nick: Yoooga
   description: "Linger in the memory of where the petals sailed on the wind<br>记得花瓣飘来的地方"
-  socials:
-    github: https://github.com/Yoooga0824
-    csdn: https://blog.csdn.net/2302_80911280?spm=1000.2115.3001.5343
   link: '/'
   language: zh-CN
   multi_language: true
@@ -37,19 +34,29 @@ site:
   # (Default is 'slug')
   pathSlug: 'slug'
 
+socials:
+  github: 'https://github.com/Yoooga0824'
+  twitter: ''
+  stackoverflow: ''
+  weibo: 'https://weibo.com/u/7318914058'
+  zhihu: 'https://www.zhihu.com/people/tridiamond'
+  csdn: 'https://blog.csdn.net/2302_80911280'
+  # juejin: 'https://juejin.cn/user/1873223546578589'
+
 #! ---------------------------------------------------------------
 #! Authors Configs
 #！ @docs https://aurora.tridiamond.tech/guide/authors.html
 #! ---------------------------------------------------------------
 # authors:
-#   ##! example
-#   # TriDiamond:
-#   #   name: TriDiamond
-#   #   avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
-#   #   link: https://github.com/TriDiamond
-#   #   description: 'Think like an artist, code like an artisan.'
-#   #   socials:
-#   #     github: https://tridiamond.tech
+#   #! example
+#   TriDiamond:
+#     name: TriDiamond
+#     avatar: https://up.enterdesk.com/edpic_source/44/ff/3d/44ff3d6bd2819d524facfcc33205d4cd.jpg
+#     link: https://github.com/Yoooga0824
+#     description: 'Think like an artist, code like an artisan.'
+#     socials:
+#       github: https://github.com/Yoooga0824
+#       csdn: https://blog.csdn.net/2302_80911280?spm=1000.2115.3001.5343
 
 #! ---------------------------------------------------------------
 #! Menu Configs
