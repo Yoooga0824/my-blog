@@ -131,8 +131,8 @@ site_meta:
 gitalk:
   enable: true
   autoExpand: true
-  clientID: ''
-  clientSecret: ''
+  clientID: 'Ov23lijXe3QGceYc4hxD'
+  clientSecret: 'bafcc131df41dc2bb6b5f89c7f31126f12faead3'
   repo: 'blog-comments' ## dev-blo-comments
   owner: 'Yoooga0824' ## owner name
   admin: ['Yoooga0824'] ## ['admin_name']
