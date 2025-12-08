@@ -4,6 +4,7 @@ date: 2025-09-11 09:53:01
 type: friends
 comment: true
 categoryMode: true
+permalink: /links/
 data:
   - nick: 三钻
     avatar: https://res.cloudinary.com/tridiamond/image/upload/v1625037705/ObsidianestLogo-hex_hecqbw.png

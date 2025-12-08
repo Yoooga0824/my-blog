@@ -3,7 +3,8 @@ title: 留言板
 date: 2025-09-11 09:48:17
 type: message-board
 avatar: /images/touxiang.jpg
-author: Yoooga                                                              
+author: Yoooga
+permalink: /page/message-board/
 ---
 
 <div style="text-align:center;margin:1em 0;">
