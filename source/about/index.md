@@ -1,6 +1,7 @@
 ---
 title: 关于
 date: 2025-09-11 10:00:00
+permalink: /about/
 ---
 <img src="/images/image3.png" alt="Yoooga" width="20%" style="float:right; margin-left:20px; margin-bottom:10px;" />
 
