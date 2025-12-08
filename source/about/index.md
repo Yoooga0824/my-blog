@@ -15,3 +15,4 @@ date: 2025-09-11 10:00:00
 - C/C++ Python Java
 - HTML CSS JS
 - Vue、Nuxt
+- Deep Learning、Representation Learning
