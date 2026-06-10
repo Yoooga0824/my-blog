@@ -1,17 +1,17 @@
 ---
-title: 成为更好的GoLang工程师
+title: 成为更好的Golang工程师
 date: 2026-06-10 20:56:37
 cover: /images/20260610.jpg
 tags:
     - 技术
-    - GoLang
+    - Golang
 categories:
     - Let's go
 feature: true
 ---
 
-# 成为更好的GoLang工程师
-## 1. GoLang环境安装
+# 成为更好的Golang工程师
+## 1. Golang环境安装
 > 访问官网 https://go.dev/dl/
 
 在Linux终端
